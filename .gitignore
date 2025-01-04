@@ -1,0 +1,11 @@
+# Ignore cache Python
+__pycache__/
+*.py[cod]
+
+# Ignore sentiments IDE (VSCode, PyCharm и т.д.)
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
