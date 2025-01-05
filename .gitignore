@@ -1,11 +1,16 @@
-# Ignore cache Python
+# Logs
+*.log
+
+# Python-specific
 __pycache__/
 *.py[cod]
+.env
 
-# Ignore sentiments IDE (VSCode, PyCharm и т.д.)
+# IDE-specific
 .vscode/
 .idea/
+*.sublime-workspace
 
-# Ignore system files
+# OS-generated
 .DS_Store
 Thumbs.db

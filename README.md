@@ -23,7 +23,7 @@ Your ultimate **password generator** built with Python! Secure your accounts wit
 ## 💾 Installation
 1. Install Python 3.8+ on your system from [Python's official site](https://www.python.org/).
 2. Clone the repository:
-    git clone https://github.com/your-username/MonPyPass.git  
+    git clone https://github.com/Artem-Monkiewicz/MonPyPass 
     cd MonPyPass 
 3. Run the script:
     python project.py  
@@ -61,4 +61,4 @@ This project is licensed under the [MIT License](LICENSE).
 - [Artem Monkiewicz](https://www.linkedin.com/in/artem-monkiewicz/) - Developer of MonPyPass.
 ## 🤝 Let's Connect!  
 If you found this project interesting or useful, feel free to check out more of my work:  
-- [GitHub](https://github.com/Artem-Monkiewicz)  
+- [GitHub - Artem Monkiewicz](https://github.com/Artem-Monkiewicz)  
