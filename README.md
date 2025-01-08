@@ -17,6 +17,8 @@ Your ultimate **password generator** built with Python! Secure your accounts wit
      - Number of letters  
      - Number of symbols  
      - Number of digits  
+3. **Complexity assessment**
+   - Check how hack-resistant your password is.
 
 ---
 
@@ -33,15 +35,13 @@ Your ultimate **password generator** built with Python! Secure your accounts wit
 ---
 
 ## 🛠️ Future Enhancements  
-- Add password strength validation.  
 - Integrate with a local database to save and manage passwords.  
 - Build a GUI version for an even better user experience.  
 
 ---
 
 ## 📦 Requirements  
-- Python 3.8 or later.  
-- Standard Python libraries (`random`, `string`).  
+- The project does not require external libraries
 
 ---
 
